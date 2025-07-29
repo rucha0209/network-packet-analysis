@@ -1,6 +1,7 @@
-# network-packet-analysis
-Wireshark-based network traffic analysis projects
+
+
 # Network Packet Analysis with Wireshark
+Wireshark-based network traffic analysis projects
 ## Objective
 Capture and analyze DNS, HTTP, and suspicious packets.
 
